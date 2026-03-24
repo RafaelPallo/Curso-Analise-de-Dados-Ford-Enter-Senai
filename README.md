@@ -17,6 +17,7 @@ git clone https://github.com/RafaelPallo/Curso-Analise-de-Dados-Ford-Enter-Senai
 ```bash
 cd "Curso-Analise-de-Dados-Ford-Enter-Senai"
 python "Aula 1/hello.py"
+```
 
 📋 Sobre
 Aluno: Rafael Pallo

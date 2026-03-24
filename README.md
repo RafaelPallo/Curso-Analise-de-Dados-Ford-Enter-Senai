@@ -19,7 +19,8 @@ cd "Curso-Analise-de-Dados-Ford-Enter-Senai"
 python "Aula 1/hello.py"
 ```
 
-📋 Sobre
-Aluno: Rafael Pallo
-Turma: FIC Fundamentos de Python - Tarde
-SENAI - Ford Enter 2026
+## 📋 Sobre
+
+**Aluno**: Rafael Pallo  
+**Turma**: FIC Fundamentos de Python - Tarde  
+**SENAI - Ford Enter 2026**

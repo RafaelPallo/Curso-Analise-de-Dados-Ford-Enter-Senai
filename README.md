@@ -13,8 +13,6 @@ Repositório com códigos das aulas e exercícios do curso **Fundamentos de Pyth
 ```bash
 git clone https://github.com/RafaelPallo/Curso-Analise-de-Dados-Ford-Enter-Senai.git
 
-
-```bash
 cd "Curso-Analise-de-Dados-Ford-Enter-Senai"
 python "Aula 1/hello.py"
 ```
